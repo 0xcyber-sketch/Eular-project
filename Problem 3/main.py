@@ -1,0 +1,11 @@
+
+def getPrime(input):
+
+  
+
+
+
+
+
+
+##Solution 
